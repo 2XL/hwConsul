@@ -1,0 +1,8 @@
+{
+  "ui": true,
+  "retry_join": [
+    "172.24.0.5"
+  ],
+  "advertise_addr": "172.24.0.1",
+  "data_dir": "/tmp/consul"
+}
